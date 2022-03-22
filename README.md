@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - :mortar_board: I’m currently working on being a Full stack Developer 
 - 🌱 I’m currently learning React, Unix, C ...
 - #### Github Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username={JohnNgugi-1}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 - ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
